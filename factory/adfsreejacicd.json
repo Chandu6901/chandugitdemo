@@ -1,0 +1,9 @@
+{
+	"name": "adfsreejacicd",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4bd953f8-1aee-411c-a766-de6a57d20439",
+		"tenantId": "ff60b0a1-a63d-45f8-b3d4-3edc015e5792"
+	}
+}
